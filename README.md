@@ -1,6 +1,6 @@
 # SARS-CoV-2-leader notebook wrapper
 
-A jupyter notebook wrapper for the SARS-CoV2-leader scripts. Please see `./notebooks/covid19_leader.ipynb` for more information.
+A jupyter notebook wrapper for the SARS-CoV2-leader scripts (https://github.com/achamings/SARS-CoV-2-leader). Please see `./notebooks/covid19_leader.ipynb` for more information.
 
 ## Requirements
 - conda
