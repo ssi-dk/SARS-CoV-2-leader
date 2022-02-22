@@ -7,7 +7,7 @@ A jupyter notebook wrapper for the SARS-CoV2-leader scripts (https://github.com/
 
 ## Installation
 install conda env, recommendation is into project dir
-`conda create env -p ./.venv -f ./notebooks/covid19_leader/conda.env.yml`
+`conda create env -p ./.venv -f ./notebooks/covid19_leader.conda.env.yml`
 
 Set the jupyter server to use the conda env
 install conda env, recommendation is into project dir by pointing it to`./.venv`
